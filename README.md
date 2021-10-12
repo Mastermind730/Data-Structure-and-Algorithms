@@ -18,4 +18,4 @@ This repository is accepting PRs for HacktoberFest 2021🤩
 - Create a Pull Request which will be reviewed by the maintainers and suggestions would be added to improve it (if needed)
 - Describe what your codeblock / function does in the PR.
 - Having difficulty in contributing? Read the Contribution.md for a detailed explanation.  
-- While creating issues make sure you add a proper question based on Data structures and Algorithms.
+- **While creating issues make sure you add a proper question based on Data structures and Algorithms**
