@@ -33,7 +33,7 @@
     git checkout -b <branch-name>
     ```
 
-- Write your code in the Python file.
+- You can write your code in any langauage like Cpp,C,Python,Java etc .
 - Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
     ```bash
