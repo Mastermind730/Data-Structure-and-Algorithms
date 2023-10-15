@@ -8,7 +8,7 @@
 
 This repository is for solving problems using the concepts of **Data Structures** in any language.
 
-This repository is accepting PRs for HacktoberFest 2021🤩
+This repository is accepting PRs for HacktoberFest 2023🤩
 
 ## How to Contribute?
 - Take a look at the existing issues or create your own Issues
